@@ -73,6 +73,20 @@
             }
         },
         {
+            "key": "尼玛影视",
+            "name": "尼玛｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/尼玛影视.json"
+        },
+        {
+            "key": "七七影视",
+            "name": "七七｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/七七影视.json"
+        },
+        {
             "key": "菲儿影视",
             "name": "菲儿｜APP",
             "type": 3,
